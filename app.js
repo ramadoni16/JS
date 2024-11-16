@@ -1,11 +1,11 @@
-// Penjelasan Index Pada String Dan Panjang Karakter
+/* Kelas Saya
+Belajar JavaScr...
+Method-Method Javascript Yang Memudahkan Hidup Kita
+Selanjutnya
+Method-Method Javascript Yang Memudahkan Hidup Kita*/
 
-let nama = "rama";
-nama = nama + "doni";
-nama.length;
-console.log(nama.length);
+let greeting = "hello world";
+greeting.toUpperCase;
+console.log(greeting.toUpperCase());
 
-let namaDepan = "Ramadoni";
-let namaBelakang = " Ganteng";
-let namaLengkap = namaDepan + "" + namaBelakang;
-console.log(namaLengkap);
+"hello world".trim().toUpperCase();
