@@ -1,13 +1,11 @@
-// variabel let
+// Penjelasan Index Pada String Dan Panjang Karakter
 
-// let tahunMredeka = 1945;
-// let lamaTahunMerdeka = 2022 - tahunMredeka;
-// console.log(lamaTahunMerdeka);
+let nama = "rama";
+nama = nama + "doni";
+nama.length;
+console.log(nama.length);
 
-// variabel const
-// const nilaiV = 3.14;
-
-let namaLengkap = "Camel Case";
-let NamaLengkap = "Pascal Case";
-let nama_lengkap = " Snake Case";
-let $variabel = "simbol";
+let namaDepan = "Ramadoni";
+let namaBelakang = " Ganteng";
+let namaLengkap = namaDepan + "" + namaBelakang;
+console.log(namaLengkap);
