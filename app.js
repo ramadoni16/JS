@@ -1,11 +1,12 @@
-/* Kelas Saya
-Belajar JavaScr...
-Method-Method Javascript Yang Memudahkan Hidup Kita
-Selanjutnya
-Method-Method Javascript Yang Memudahkan Hidup Kita*/
+// Method Dan Argument (Parameter)
 
 let greeting = "hello world";
-greeting.toUpperCase;
-console.log(greeting.toUpperCase());
+// greeting.indexOf("world");
+// console.log(greeting[6]);
 
-"hello world".trim().toUpperCase();
+// greeting.slice(0, 5);
+// console.log(greeting.slice(0, 5));
+// greeting.slice(6, 11);
+// console.log(greeting.slice(6, 11));
+
+console.log(greeting.replace("world", "dunia"));
