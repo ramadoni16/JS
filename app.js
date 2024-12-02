@@ -1,13 +1,12 @@
-// variabel let
+// Method Dan Argument (Parameter)
 
-// let tahunMredeka = 1945;
-// let lamaTahunMerdeka = 2022 - tahunMredeka;
-// console.log(lamaTahunMerdeka);
+let greeting = "hello world";
+// greeting.indexOf("world");
+// console.log(greeting[6]);
 
-// variabel const
-// const nilaiV = 3.14;
+// greeting.slice(0, 5);
+// console.log(greeting.slice(0, 5));
+// greeting.slice(6, 11);
+// console.log(greeting.slice(6, 11));
 
-let namaLengkap = "Camel Case";
-let NamaLengkap = "Pascal Case";
-let nama_lengkap = " Snake Case";
-let $variabel = "simbol";
+console.log(greeting.replace("world", "dunia"));
